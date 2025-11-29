@@ -67,20 +67,6 @@ A personal website showcasing animations, sections, and project details.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=scylla8434&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scylla8434&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://streak-stats.demolab.com?user=scylla8434&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 - 📧 **teddyanangwe@gmail.com**  
